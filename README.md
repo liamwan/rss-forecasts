@@ -21,7 +21,7 @@ Modellbildung
 
 alle die Sie bisher kennen + XGBoost
 
-Für die besten Modelle: Hyperparameter Tuning (GridSearchCV)
+-> Für die besten Modelle: Hyperparameter Tuning (GridSearchCV)
 
 ggf. auch Mischung verschiedener Modelle (Stacking)
 
