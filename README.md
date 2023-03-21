@@ -38,5 +38,6 @@ Organisatorisches:
 
  Abgabe
 Form eines Git-Links zu Ihrem Projekt
-Montag 31.03. , 23:59 Uhr
+Montag 31.03. , 23:59 Uhr.
+
 Sie haben in meinem Unterricht zwei Termine Zeit für diesen Teil (06.02. und 13.02.)
